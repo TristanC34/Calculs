@@ -31,6 +31,7 @@ namespace Calculs
                 // calcul des valeurs aléatoires
                 val1 = rand.Next(1, 10);
                 val2 = rand.Next(1, 10);
+                //aaaaaaa
 
                 // traitement des choix
                 switch (choix)
